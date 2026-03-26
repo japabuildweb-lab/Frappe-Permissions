@@ -25,7 +25,7 @@
 ![Authentication Screen](screenshots/login.png)
 
 ### Dashboard — Connected
-![Dashboard](screenshots/dashboard.webp)
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
@@ -131,7 +131,7 @@ Frappe-Permissions/
 ├── start_auditor.bat   # Windows batch file to start the proxy
 ├── screenshots/        # Application screenshots
 │   ├── login.png
-│   └── dashboard.webp
+│   └── dashboard.png
 ├── LICENSE             # MIT License
 └── README.md           # This file
 ```
